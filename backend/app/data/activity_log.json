@@ -1,0 +1,30 @@
+[
+    {
+        "start_time": "2026-08-09 11:32:51",
+        "end_time": "2026-08-09 11:32:55",
+        "duration_seconds": 4.0,
+        "category": "Coding",
+        "window_title": "activity_tracker.py - NekoAi - Visual Studio Code"
+    },
+    {
+        "start_time": "2026-08-09 11:32:55",
+        "end_time": "2026-08-09 11:33:10",
+        "duration_seconds": 15.2,
+        "category": "Browsing",
+        "window_title": "NekoAi - Desktop Pet Project Ideas - Brave"
+    },
+    {
+        "start_time": "2026-08-09 11:33:10",
+        "end_time": "2026-08-09 11:33:31",
+        "duration_seconds": 21.1,
+        "category": "Browsing",
+        "window_title": "devashreep22/Student-demo - Brave"
+    },
+    {
+        "start_time": "2026-08-09 11:33:31",
+        "end_time": "2026-08-09 11:33:48",
+        "duration_seconds": 17.2,
+        "category": "Learning",
+        "window_title": "(1185) Gehra Hua - Lyrical (Full Version) | Dhurandhar, Ranveer Singh, Sara A,Shashwat Sachdev,Arijit Singh - YouTube - Brave"
+    }
+]
