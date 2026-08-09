@@ -1,0 +1,1 @@
+// Preload script for future communication between Electron and React
