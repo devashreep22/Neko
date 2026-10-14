@@ -1,5 +1,5 @@
 import win32gui
-
+from app.services.neko_state import get_neko_state
 from app.utils.activity_classifier import classify_activity
 
 def get_current_activity():

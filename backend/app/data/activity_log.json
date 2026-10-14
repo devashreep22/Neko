@@ -26,5 +26,1175 @@
         "duration_seconds": 17.2,
         "category": "Learning",
         "window_title": "(1185) Gehra Hua - Lyrical (Full Version) | Dhurandhar, Ranveer Singh, Sara A,Shashwat Sachdev,Arijit Singh - YouTube - Brave"
+    },
+    {
+        "start_time": "2026-10-13 20:17:05",
+        "end_time": "2026-10-13 20:17:17",
+        "duration_seconds": 12.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:17:21",
+        "end_time": "2026-10-13 20:17:39",
+        "duration_seconds": 16.1,
+        "category": "Unknown",
+        "window_title": "ScreenshotWindow",
+        "app": "PSExpressCore.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 20:17:39",
+        "end_time": "2026-10-13 20:17:43",
+        "duration_seconds": 4.1,
+        "category": "Browsing",
+        "window_title": "NeetCode | Coding Interview Prep, Courses, Versus Mode - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:17:43",
+        "end_time": "2026-10-13 20:17:47",
+        "duration_seconds": 4.1,
+        "category": "Learning",
+        "window_title": "Striver's A2Z DSA Sheet & Course | takeUforward - Brave",
+        "app": "brave.exe",
+        "classification_source": "title:learning-site"
+    },
+    {
+        "start_time": "2026-10-13 20:17:47",
+        "end_time": "2026-10-13 20:17:51",
+        "duration_seconds": 4.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:17:52",
+        "end_time": "2026-10-13 20:17:55",
+        "duration_seconds": 3.0,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:17:55",
+        "end_time": "2026-10-13 20:18:00",
+        "duration_seconds": 5.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:18:01",
+        "end_time": "2026-10-13 20:18:04",
+        "duration_seconds": 3.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:18:05",
+        "end_time": "2026-10-13 20:19:33",
+        "duration_seconds": 87.6,
+        "category": "Communication",
+        "window_title": "WhatsApp",
+        "app": "WhatsApp.Root.exe",
+        "classification_source": "title:communication"
+    },
+    {
+        "start_time": "2026-10-13 20:19:33",
+        "end_time": "2026-10-13 20:19:53",
+        "duration_seconds": 18.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:19:53",
+        "end_time": "2026-10-13 20:20:01",
+        "duration_seconds": 8.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:20:01",
+        "end_time": "2026-10-13 20:20:15",
+        "duration_seconds": 14.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:20:15",
+        "end_time": "2026-10-13 20:20:24",
+        "duration_seconds": 9.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:20:25",
+        "end_time": "2026-10-13 20:20:28",
+        "duration_seconds": 3.0,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:20:28",
+        "end_time": "2026-10-13 20:21:19",
+        "duration_seconds": 51.3,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:21:19",
+        "end_time": "2026-10-13 20:21:27",
+        "duration_seconds": 8.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 20:21:27",
+        "end_time": "2026-10-13 20:21:29",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 20:21:29",
+        "end_time": "2026-10-13 20:21:31",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 20:21:31",
+        "end_time": "2026-10-13 20:21:39",
+        "duration_seconds": 8.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:21:39",
+        "end_time": "2026-10-13 20:21:45",
+        "duration_seconds": 6.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:21:45",
+        "end_time": "2026-10-13 20:21:50",
+        "duration_seconds": 5.0,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:21:50",
+        "end_time": "2026-10-13 20:22:48",
+        "duration_seconds": 57.5,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:22:49",
+        "end_time": "2026-10-13 20:23:01",
+        "duration_seconds": 12.1,
+        "category": "Unknown",
+        "window_title": "Screen Recordings - File Explorer",
+        "app": "explorer.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 20:23:01",
+        "end_time": "2026-10-13 20:33:06",
+        "duration_seconds": 605.4,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:33:06",
+        "end_time": "2026-10-13 20:33:51",
+        "duration_seconds": 44.4,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:33:51",
+        "end_time": "2026-10-13 20:34:03",
+        "duration_seconds": 12.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:34:04",
+        "end_time": "2026-10-13 20:34:12",
+        "duration_seconds": 8.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:34:12",
+        "end_time": "2026-10-13 20:39:47",
+        "duration_seconds": 335.5,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:39:47",
+        "end_time": "2026-10-13 20:40:10",
+        "duration_seconds": 23.2,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:40:10",
+        "end_time": "2026-10-13 20:40:17",
+        "duration_seconds": 6.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:40:16",
+        "end_time": "2026-10-13 20:40:22",
+        "duration_seconds": 5.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:40:22",
+        "end_time": "2026-10-13 20:40:25",
+        "duration_seconds": 3.0,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:40:25",
+        "end_time": "2026-10-13 20:40:29",
+        "duration_seconds": 4.0,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:40:29",
+        "end_time": "2026-10-13 20:40:33",
+        "duration_seconds": 4.0,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:40:34",
+        "end_time": "2026-10-13 20:40:38",
+        "duration_seconds": 4.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:40:38",
+        "end_time": "2026-10-13 20:40:48",
+        "duration_seconds": 10.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:40:48",
+        "end_time": "2026-10-13 20:40:53",
+        "duration_seconds": 5.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:40:53",
+        "end_time": "2026-10-13 20:40:58",
+        "duration_seconds": 5.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:40:58",
+        "end_time": "2026-10-13 20:41:02",
+        "duration_seconds": 4.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:41:02",
+        "end_time": "2026-10-13 20:41:09",
+        "duration_seconds": 7.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 20:41:09",
+        "end_time": "2026-10-13 20:43:53",
+        "duration_seconds": 164.3,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 20:43:53",
+        "end_time": "2026-10-13 21:16:29",
+        "duration_seconds": 1955.6,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:16:29",
+        "end_time": "2026-10-13 21:16:35",
+        "duration_seconds": 6.0,
+        "category": "Unknown",
+        "window_title": "AsKeybdHkToast App Window",
+        "app": "AsusKeyboardHost.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:16:35",
+        "end_time": "2026-10-13 21:16:39",
+        "duration_seconds": 4.0,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:16:39",
+        "end_time": "2026-10-13 21:17:24",
+        "duration_seconds": 44.4,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:17:46",
+        "end_time": "2026-10-13 21:18:04",
+        "duration_seconds": 18.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:18:04",
+        "end_time": "2026-10-13 21:18:14",
+        "duration_seconds": 10.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:18:14",
+        "end_time": "2026-10-13 21:18:18",
+        "duration_seconds": 4.0,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:18:18",
+        "end_time": "2026-10-13 21:18:21",
+        "duration_seconds": 3.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:18:21",
+        "end_time": "2026-10-13 21:18:24",
+        "duration_seconds": 3.0,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:18:24",
+        "end_time": "2026-10-13 21:18:28",
+        "duration_seconds": 4.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:22:09",
+        "end_time": "2026-10-13 21:22:32",
+        "duration_seconds": 22.2,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:22:33",
+        "end_time": "2026-10-13 21:22:41",
+        "duration_seconds": 8.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:22:41",
+        "end_time": "2026-10-13 21:22:47",
+        "duration_seconds": 6.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:22:47",
+        "end_time": "2026-10-13 21:22:49",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:22:52",
+        "end_time": "2026-10-13 21:23:05",
+        "duration_seconds": 13.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:23:05",
+        "end_time": "2026-10-13 21:23:07",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "ScreenshotWindow",
+        "app": "PSExpressCore.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:23:07",
+        "end_time": "2026-10-13 21:23:12",
+        "duration_seconds": 5.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:23:13",
+        "end_time": "2026-10-13 21:26:04",
+        "duration_seconds": 171.4,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:26:04",
+        "end_time": "2026-10-13 21:26:11",
+        "duration_seconds": 7.1,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:26:11",
+        "end_time": "2026-10-13 21:26:21",
+        "duration_seconds": 10.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:26:21",
+        "end_time": "2026-10-13 21:26:41",
+        "duration_seconds": 19.2,
+        "category": "Coding",
+        "window_title": "index.js - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:26:41",
+        "end_time": "2026-10-13 21:26:44",
+        "duration_seconds": 3.0,
+        "category": "Unknown",
+        "window_title": "AsKeybdHkToast App Window",
+        "app": "AsusKeyboardHost.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:26:48",
+        "end_time": "2026-10-13 21:27:00",
+        "duration_seconds": 12.1,
+        "category": "Communication",
+        "window_title": "WhatsApp",
+        "app": "WhatsApp.Root.exe",
+        "classification_source": "title:communication"
+    },
+    {
+        "start_time": "2026-10-13 21:27:00",
+        "end_time": "2026-10-13 21:27:15",
+        "duration_seconds": 15.1,
+        "category": "Unknown",
+        "window_title": "Open",
+        "app": "WhatsApp.Root.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:27:15",
+        "end_time": "2026-10-13 21:27:24",
+        "duration_seconds": 9.1,
+        "category": "Communication",
+        "window_title": "WhatsApp",
+        "app": "WhatsApp.Root.exe",
+        "classification_source": "title:communication"
+    },
+    {
+        "start_time": "2026-10-13 21:27:24",
+        "end_time": "2026-10-13 21:42:05",
+        "duration_seconds": 881.1,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:42:05",
+        "end_time": "2026-10-13 21:42:25",
+        "duration_seconds": 20.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:42:26",
+        "end_time": "2026-10-13 21:42:32",
+        "duration_seconds": 6.1,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:44:06",
+        "end_time": "2026-10-13 21:44:13",
+        "duration_seconds": 7.1,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:44:13",
+        "end_time": "2026-10-13 21:44:33",
+        "duration_seconds": 19.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:44:33",
+        "end_time": "2026-10-13 21:44:40",
+        "duration_seconds": 7.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:44:40",
+        "end_time": "2026-10-13 21:44:44",
+        "duration_seconds": 4.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:45:03",
+        "end_time": "2026-10-13 21:45:08",
+        "duration_seconds": 5.0,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:45:08",
+        "end_time": "2026-10-13 21:45:24",
+        "duration_seconds": 16.2,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:45:24",
+        "end_time": "2026-10-13 21:46:09",
+        "duration_seconds": 45.4,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:46:10",
+        "end_time": "2026-10-13 21:46:21",
+        "duration_seconds": 11.1,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:46:21",
+        "end_time": "2026-10-13 21:46:27",
+        "duration_seconds": 6.1,
+        "category": "Unknown",
+        "window_title": "NekoAI backend needs recovery",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:46:28",
+        "end_time": "2026-10-13 21:46:31",
+        "duration_seconds": 3.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:46:31",
+        "end_time": "2026-10-13 21:46:42",
+        "duration_seconds": 11.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:46:42",
+        "end_time": "2026-10-13 21:46:44",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:46:44",
+        "end_time": "2026-10-13 21:46:46",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:46:46",
+        "end_time": "2026-10-13 21:46:48",
+        "duration_seconds": 2.0,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 21:46:48",
+        "end_time": "2026-10-13 21:47:24",
+        "duration_seconds": 36.3,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:47:25",
+        "end_time": "2026-10-13 21:47:42",
+        "duration_seconds": 17.1,
+        "category": "Unknown",
+        "window_title": "Screenshots - File Explorer",
+        "app": "explorer.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 21:47:42",
+        "end_time": "2026-10-13 21:51:08",
+        "duration_seconds": 205.5,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 21:51:10",
+        "end_time": "2026-10-13 21:51:14",
+        "duration_seconds": 4.1,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 22:37:58",
+        "end_time": "2026-10-13 22:38:03",
+        "duration_seconds": 5.0,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 22:38:03",
+        "end_time": "2026-10-13 22:38:24",
+        "duration_seconds": 21.2,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 22:38:24",
+        "end_time": "2026-10-13 22:38:28",
+        "duration_seconds": 4.0,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 22:38:28",
+        "end_time": "2026-10-13 22:38:32",
+        "duration_seconds": 4.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 22:39:07",
+        "end_time": "2026-10-13 22:39:15",
+        "duration_seconds": 8.1,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 22:39:15",
+        "end_time": "2026-10-13 22:39:31",
+        "duration_seconds": 16.2,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 22:39:31",
+        "end_time": "2026-10-13 22:39:46",
+        "duration_seconds": 15.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 22:46:22",
+        "end_time": "2026-10-13 22:46:25",
+        "duration_seconds": 3.0,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 22:46:26",
+        "end_time": "2026-10-13 22:46:28",
+        "duration_seconds": 2.1,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 22:46:28",
+        "end_time": "2026-10-13 22:46:33",
+        "duration_seconds": 5.0,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 22:46:33",
+        "end_time": "2026-10-13 22:46:46",
+        "duration_seconds": 13.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 22:46:46",
+        "end_time": "2026-10-13 22:46:49",
+        "duration_seconds": 3.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 22:46:49",
+        "end_time": "2026-10-13 22:46:51",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 22:46:51",
+        "end_time": "2026-10-13 22:46:53",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 22:46:53",
+        "end_time": "2026-10-13 22:49:52",
+        "duration_seconds": 179.3,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 22:49:52",
+        "end_time": "2026-10-13 22:49:54",
+        "duration_seconds": 2.0,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 22:53:39",
+        "end_time": "2026-10-13 22:53:42",
+        "duration_seconds": 3.0,
+        "category": "Coding",
+        "window_title": "NekoCat.jsx - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 22:53:42",
+        "end_time": "2026-10-13 22:54:03",
+        "duration_seconds": 21.2,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 23:03:25",
+        "end_time": "2026-10-13 23:03:27",
+        "duration_seconds": 2.0,
+        "category": "Coding",
+        "window_title": "main.cjs - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 23:03:27",
+        "end_time": "2026-10-13 23:03:30",
+        "duration_seconds": 3.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 23:03:31",
+        "end_time": "2026-10-13 23:03:36",
+        "duration_seconds": 5.1,
+        "category": "Coding",
+        "window_title": "main.cjs - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 23:03:36",
+        "end_time": "2026-10-13 23:03:49",
+        "duration_seconds": 13.2,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 23:03:49",
+        "end_time": "2026-10-13 23:03:56",
+        "duration_seconds": 7.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 23:03:56",
+        "end_time": "2026-10-13 23:04:02",
+        "duration_seconds": 6.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 23:48:35",
+        "end_time": "2026-10-13 23:48:43",
+        "duration_seconds": 8.1,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 23:48:44",
+        "end_time": "2026-10-13 23:48:50",
+        "duration_seconds": 6.1,
+        "category": "Coding",
+        "window_title": "main.cjs - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 23:48:50",
+        "end_time": "2026-10-13 23:49:26",
+        "duration_seconds": 36.4,
+        "category": "Browsing",
+        "window_title": "NekoAI - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-13 23:49:28",
+        "end_time": "2026-10-13 23:49:33",
+        "duration_seconds": 5.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 23:49:33",
+        "end_time": "2026-10-13 23:49:41",
+        "duration_seconds": 7.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 23:49:41",
+        "end_time": "2026-10-13 23:50:02",
+        "duration_seconds": 21.2,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 23:50:03",
+        "end_time": "2026-10-13 23:50:08",
+        "duration_seconds": 5.1,
+        "category": "Coding",
+        "window_title": "main.cjs - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 23:58:10",
+        "end_time": "2026-10-13 23:58:32",
+        "duration_seconds": 22.2,
+        "category": "Coding",
+        "window_title": "main.cjs - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-13 23:58:32",
+        "end_time": "2026-10-13 23:58:45",
+        "duration_seconds": 12.2,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 23:58:45",
+        "end_time": "2026-10-13 23:58:49",
+        "duration_seconds": 4.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-13 23:58:49",
+        "end_time": "2026-10-13 23:58:52",
+        "duration_seconds": 3.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-14 00:28:35",
+        "end_time": "2026-10-14 00:28:55",
+        "duration_seconds": 20.2,
+        "category": "Browsing",
+        "window_title": "Build NekoAI Project - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-14 00:37:36",
+        "end_time": "2026-10-14 00:37:59",
+        "duration_seconds": 22.3,
+        "category": "Browsing",
+        "window_title": "SQLQuestByKP \u2014 Gamified In-Browser SQL Learning Platform - Brave",
+        "app": "brave.exe",
+        "classification_source": "browser"
+    },
+    {
+        "start_time": "2026-10-14 00:38:00",
+        "end_time": "2026-10-14 00:38:03",
+        "duration_seconds": 3.1,
+        "category": "Unknown",
+        "window_title": "Screenshot 2026-10-13 230402.png",
+        "app": "Photos.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-14 00:38:04",
+        "end_time": "2026-10-14 00:38:07",
+        "duration_seconds": 3.1,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-14 00:38:07",
+        "end_time": "2026-10-14 00:38:12",
+        "duration_seconds": 5.0,
+        "category": "Unknown",
+        "window_title": "Snipping Tool Overlay",
+        "app": "SnippingTool.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-14 00:38:12",
+        "end_time": "2026-10-14 00:38:15",
+        "duration_seconds": 3.0,
+        "category": "Unknown",
+        "window_title": "Error",
+        "app": "electron.exe",
+        "classification_source": "no-rule"
+    },
+    {
+        "start_time": "2026-10-14 00:38:15",
+        "end_time": "2026-10-14 00:38:18",
+        "duration_seconds": 3.1,
+        "category": "Coding",
+        "window_title": "main.cjs - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
+    },
+    {
+        "start_time": "2026-10-14 00:38:19",
+        "end_time": "2026-10-14 00:38:30",
+        "duration_seconds": 11.1,
+        "category": "Coding",
+        "window_title": "main.cjs - NekoAi - Visual Studio Code",
+        "app": "Code.exe",
+        "classification_source": "process:code.exe"
     }
 ]

@@ -1,6 +1,12 @@
-backend/venv/
+node_modules/
+desktop/.npm-cache/
+*.log
+.pytest_cache/
+.venv/
 venv/
-__pycache__/
-*.pyc
-.env
-.vscode/
+**/__pycache__/
+desktop/dist/
+desktop/build/
+backend/build/
+backend/dist/
+backend/backend.egg-info/

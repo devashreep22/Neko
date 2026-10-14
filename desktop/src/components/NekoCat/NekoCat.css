@@ -1,0 +1,85 @@
+.neko {
+  --fur: #f6a94b; --fur-dark: #de8a2a; --belly: #fff0d4;
+  --ink: #2b2230; --pink: #ff9aa8; --brow-color: #7a4a22;
+  display: inline-flex; flex-direction: column; align-items: center;
+}
+.neko svg { width: 100%; height: auto; overflow: visible; display: block; }
+
+/* ---- Expression (smooth transitions between states) ---- */
+.neko-gaze   { transform: translate(var(--px), var(--py)); transition: transform .35s ease; }
+.neko-escale { transform: scale(var(--scale)); transition: transform .35s ease; }
+.neko-lid    { transform: rotate(calc(var(--tilt) * var(--side))) translateY(calc(var(--cover) * 32px - 17.5px));
+               transition: transform .35s ease; }
+.neko-brow   { transform: translateY(var(--browY)) rotate(calc(var(--brow) * var(--side))); transition: transform .35s ease; }
+.neko-blink  { transform-box: fill-box; transform-origin: center; }
+.neko-arc, .neko-mouth, .neko-fx { opacity: 0; transition: opacity .3s ease; }
+.neko-escale { transition: transform .35s ease, opacity .25s ease; }
+.neko[data-eyes="arcs"] .neko-escale { opacity: 0; }
+.neko[data-eyes="arcs"] .neko-brow { opacity: .0; }
+.neko[data-eyes="arcs"] .neko-arc  { opacity: 1; }
+.neko[data-mouth="smile"] .m-smile, .neko[data-mouth="flat"] .m-flat, .neko[data-mouth="small"] .m-small,
+.neko[data-mouth="frown"] .m-frown, .neko[data-mouth="open"] .m-open, .neko[data-mouth="yawn"] .m-yawn { opacity: 1; }
+.neko[data-fx="code"] .fx-code, .neko[data-fx="book"] .fx-book, .neko[data-fx="screen"] .fx-screen,
+.neko[data-fx="hearts"] .fx-hearts, .neko[data-fx="angry"] .fx-angry, .neko[data-fx="zzz"] .fx-zzz,
+.neko[data-fx="confetti"] .fx-confetti, .neko[data-fx="water"] .fx-water { opacity: 1; }
+
+/* ---- Animation (independent of expression; keyed by data-anim) ---- */
+.neko-all  { transform-box: view-box; transform-origin: 100px 208px; }
+.neko-head { transform-origin: 100px 140px; }
+.neko-tail { transform-origin: 138px 182px; animation: neko-tail 2.8s ease-in-out infinite; }
+.neko-blink { animation: neko-blink 5s infinite; }
+
+.neko[data-anim="breathe"] .neko-all { animation: neko-breathe 4s ease-in-out infinite; }
+.neko[data-anim="typing"]  .neko-head { animation: neko-nod .5s ease-in-out infinite; }
+.neko[data-anim="think"]   .neko-head { animation: neko-think 3.2s ease-in-out infinite; }
+.neko[data-anim="sway"]    .neko-all  { animation: neko-sway 3.6s ease-in-out infinite; }
+.neko[data-anim="bounce"]  .neko-all  { animation: neko-bounce .9s ease-out infinite; }
+.neko[data-anim="jump"]    .neko-all  { animation: neko-jump .75s ease-out infinite; }
+.neko[data-anim="huff"]    .neko-all  { animation: neko-huff 2.4s ease-in-out infinite; }
+.neko[data-anim="sleep"]   .neko-head { transform: translateY(6px) rotate(5deg); }
+.neko[data-anim="sleep"]   .neko-all  { animation: neko-breathe 5s ease-in-out infinite; }
+.neko[data-anim="bob"]     .neko-all  { animation: neko-bob 2s ease-in-out infinite; }
+.neko[data-anim="sleep"]   .neko-tail { animation-duration: 6s; }
+.neko[data-anim="bounce"] .neko-tail, .neko[data-anim="jump"] .neko-tail { animation-duration: .8s; }
+.neko[data-anim="huff"]   .neko-tail { animation-duration: .5s; }
+.neko[data-anim="sleep"] .neko-blink { animation-duration: 9s; }
+
+.neko-rise  { animation: neko-rise 2.4s ease-in infinite; }
+.neko-rise.r2 { animation-delay: .8s; } .neko-rise.r3 { animation-delay: 1.6s; }
+.neko-puff  { animation: neko-puff 1.6s ease-out infinite; } .neko-puff.p2 { animation-delay: .8s; }
+.neko-piece { transform-box: fill-box; transform-origin: center; animation: neko-fall 2s linear infinite; animation-delay: calc(var(--i) * -.2s); }
+.neko-glow  { animation: neko-pulse 1.8s ease-in-out infinite; }
+.neko-drop  { animation: neko-drip 2s ease-in infinite; }
+.neko-cursor { animation: neko-cursor 1s steps(1) infinite; }
+
+@keyframes neko-breathe { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(1.025); } }
+@keyframes neko-nod    { 0%,100% { transform: translateY(0); } 50% { transform: translateY(3px); } }
+@keyframes neko-think  { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(3deg); } }
+@keyframes neko-sway   { 0%,100% { transform: rotate(-2deg); } 50% { transform: rotate(2deg); } }
+@keyframes neko-bounce { 0%,100% { transform: translateY(0); } 40% { transform: translateY(-12px); } }
+@keyframes neko-jump   { 0%,100% { transform: translateY(0) scale(1.04,.94); } 45% { transform: translateY(-26px) scale(.97,1.04); } }
+@keyframes neko-huff   { 0%,70%,100% { transform: translateX(0); } 74%,82%,90% { transform: translateX(-2px); } 78%,86%,94% { transform: translateX(2px); } }
+@keyframes neko-bob    { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+@keyframes neko-tail   { 0%,100% { transform: rotate(-7deg); } 50% { transform: rotate(9deg); } }
+@keyframes neko-blink  { 0%,93%,100% { transform: scaleY(1); } 96% { transform: scaleY(.08); } }
+@keyframes neko-rise   { 0% { transform: translateY(8px); opacity: 0; } 30% { opacity: 1; } 100% { transform: translateY(-14px); opacity: 0; } }
+@keyframes neko-puff   { 0% { transform: scale(.4); opacity: .9; } 100% { transform: scale(1.5); opacity: 0; } }
+@keyframes neko-fall   { 0% { transform: translateY(-10px) rotate(0); opacity: 0; } 15% { opacity: 1; } 100% { transform: translateY(70px) rotate(300deg); opacity: 0; } }
+@keyframes neko-pulse  { 0%,100% { opacity: .2; } 50% { opacity: .5; } }
+@keyframes neko-drip   { 0% { transform: translateY(0); opacity: 1; } 80%,100% { transform: translateY(16px); opacity: 0; } }
+@keyframes neko-cursor { 50% { opacity: 0; } }
+
+/* Disable all motion on request or when the OS asks for reduced motion */
+.neko[data-animated="false"] *, .neko[data-animated="false"] .neko-all { animation: none !important; }
+@media (prefers-reduced-motion: reduce) { .neko * { animation: none !important; } }
+
+/* ---- Speech bubble ---- */
+.neko-bubble {
+  position: relative; max-width: 100%; margin-bottom: 12px; padding: 8px 14px;
+  background: #fff; color: #2b2230; border-radius: 14px; font: 500 14px/1.35 system-ui, sans-serif;
+  box-shadow: 0 2px 8px rgba(0,0,0,.18); text-align: center;
+}
+.neko-bubble::after {
+  content: ""; position: absolute; left: 50%; bottom: -7px; width: 14px; height: 14px;
+  background: inherit; transform: translateX(-50%) rotate(45deg); border-radius: 0 0 3px 0;
+}
